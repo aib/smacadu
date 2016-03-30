@@ -1,4 +1,10 @@
 
+// http://www.theverge.com/2016/3/30/11331014/microsoft-windows-linux-ubuntu-bash
+
+
+
+
+
 this is port of: http://www.literatecode.com/smacadu to Linux
 
 smacdig
